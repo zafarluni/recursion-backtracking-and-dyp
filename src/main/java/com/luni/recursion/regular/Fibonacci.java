@@ -1,4 +1,4 @@
-package com.luni.recursion;
+package com.luni.recursion.regular;
 
 public final class Fibonacci {
 
