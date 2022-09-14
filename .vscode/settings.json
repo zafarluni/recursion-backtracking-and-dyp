@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src/main/java/com"
+    ],
+    "vscode-neovim.useWSL": false,
+    "vscode-neovim.neovimInitVimPaths.win32": "C:\\Users\\zafar\\AppData\\Local\\nvim\\init.vim",
+    "vscode-neovim.neovimExecutablePaths.win32": "C:\\Program Files\\Neovim\\bin\\nvim.exe",
+    "vscode-neovim.neovimExecutablePaths.linux": "/usr/bin/nvim",
+    "vscode-neovim.neovimInitVimPaths.linux": "/home/zafarluni/.config/nvim/init.vim",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
